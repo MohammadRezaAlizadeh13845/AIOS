@@ -6,7 +6,7 @@ The deep learning model will identify patterns and learn from this dataset. Subs
 ### Contact group members
 you can contact us via email: 
 
-Mahdi Qadiyani: 
+Mahdi Qadiyani: Mahdiqadyani98@gmail.com
 
 Mehrshad Hosseini: 
 
