@@ -3,16 +3,15 @@ We are 5 students from IUST university in Iran and we're studying mathematics an
 ### GOALS
 We should create a deep learning model that learns from a large amount of eeg data, labeled into five groups. These groups represent the different states of sleep of the individuals whose brainwaves are being studied. For instance, 50,000 samples correspond to people who are awake.
 The deep learning model will identify patterns and learn from this dataset. Subsequently, it will be able to determine whether a given sample corresponds to the awake state or different levels of sleep. The final output will serve as a classifier that the model uses for classification.
-### Contact group members
-you can contact us via email: 
-
+### Contact contributers via emali
 Mahdi Qadiyani: Mahdiqadyani98@gmail.com
-
+Role: Research and model development
 Mehrshad Hosseini: mehrshad.hosseini.06@gmail.com
-
+Role: Research and model development
 Amin Peykani: ilovemath4real@gmail.com
-
+Role: Research 
 Nazanin Hakimifar: nazaninhakimifar7912@gmail.com
-
+Role: Research 
 Mohammadreza Alizadeh: contact information: https://mohammadrezaalizadeh13845.github.io/
+Role: Research 
 
