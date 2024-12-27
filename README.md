@@ -8,9 +8,9 @@ you can contact us via email:
 
 Mahdi Qadiyani: Mahdiqadyani98@gmail.com
 
-Mehrshad Hosseini: 
+Mehrshad Hosseini: mehrshad.hosseini.06@gmail.com
 
-Amin Peykani: 
+Amin Peykani: ilovemath4real@gmail.com
 
 Nazanin Hakimifar: 
 
