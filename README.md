@@ -12,6 +12,7 @@ Mehrshad Hosseini: mehrshad.hosseini.06@gmail.com
 
 Amin Peykani: ilovemath4real@gmail.com
 
-Nazanin Hakimifar: 
+Nazanin Hakimifar: nazaninhakimifar7912@gmail.com
 
 Mohammadreza Alizadeh: contact information: https://mohammadrezaalizadeh13845.github.io/
+
