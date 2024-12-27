@@ -1,17 +1,27 @@
 ## AIOS
-We are 5 students from IUST university in Iran and we're studying mathematics and applications. we have signed up for an AI competition where we have to present a model as our final project. Here, we will share the code we used for the models that we made. 
+We are a group of five students from IUST University in Iran, specializing in mathematics and its applications. This repository is part of our submission for an AI competition, where we aim to develop and present a deep learning model as our final project. Here, we will share the code and resources used to create our models.
 ### GOALS
-We should create a deep learning model that learns from a large amount of eeg data, labeled into five groups. These groups represent the different states of sleep of the individuals whose brainwaves are being studied. For instance, 50,000 samples correspond to people who are awake.
-The deep learning model will identify patterns and learn from this dataset. Subsequently, it will be able to determine whether a given sample corresponds to the awake state or different levels of sleep. The final output will serve as a classifier that the model uses for classification.
+Our objective is to design a deep learning model capable of analyzing a large EEG dataset labeled into five categories. These categories represent various sleep states of individuals based on their brainwave activity. For example, 50,000 samples in the dataset correspond to individuals in the awake state.
+
+The deep learning model will learn patterns from the dataset, enabling it to classify EEG samples into the appropriate sleep states, including awake and different sleep levels. The final output will serve as a classifier to perform accurate sleep state identification.
 ### Contact contributers via emali
 Mahdi Qadiyani: Mahdiqadyani98@gmail.com
+
 Role: Research and model development
+
 Mehrshad Hosseini: mehrshad.hosseini.06@gmail.com
+
 Role: Research and model development
+
 Amin Peykani: ilovemath4real@gmail.com
+
 Role: Research 
+
 Nazanin Hakimifar: nazaninhakimifar7912@gmail.com
+
 Role: Research 
+
 Mohammadreza Alizadeh: contact information: https://mohammadrezaalizadeh13845.github.io/
+
 Role: Research 
 
