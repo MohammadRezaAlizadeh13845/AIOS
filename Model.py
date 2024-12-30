@@ -35,7 +35,7 @@ def scheduler(epoch, lr):
         return lr * 0.96
 
 # بارگذاری و پیش‌پردازش داده‌ها به روش جدید
-main_folder = "E:\\Me\\VsCode\\extracted_files\\AISContest_Data"
+main_folder = r"C:\Users\hp\Desktop\AISContest_Data\AISContest_Data"
 
 data_list = []
 labels_list = []
